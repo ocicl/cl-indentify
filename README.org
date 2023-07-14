@@ -1,0 +1,9 @@
+* cl-indentify
+
+Automatic indentation for Common Lisp
+
+|---------+--------------------------------------------------|
+| source  | git:https://github.com/yitzchak/cl-indentify.git |
+| commit  | 33af127                                          |
+| systems | cl-indentify                                     |
+|---------+--------------------------------------------------|
