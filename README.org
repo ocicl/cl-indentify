@@ -4,6 +4,6 @@ Automatic indentation for Common Lisp
 
 |---------+--------------------------------------------------|
 | source  | git:https://github.com/yitzchak/cl-indentify.git |
-| commit  | 33af127                                          |
+| commit  | a5fba03                                          |
 | systems | cl-indentify                                     |
 |---------+--------------------------------------------------|
